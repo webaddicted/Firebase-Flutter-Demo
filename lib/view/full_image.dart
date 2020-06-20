@@ -1,6 +1,7 @@
 import 'dart:io';
 
 import 'package:flutter/material.dart';
+import 'package:kotlinproject/global/constant/color_const.dart';
 import 'package:kotlinproject/global/utils/file_utils.dart';
 import 'package:kotlinproject/global/utils/widget_helper.dart';
 import 'package:photo_view/photo_view.dart';
@@ -31,7 +32,8 @@ class _FullImageState extends State<FullImage> {
     else
       name = getFileName(imageUrl);
     return Scaffold(
-        appBar: getAppBarWithBackBtn(ctx:context,title: name),
+        appBar: getAppBarWithBackBtn(ctx:context,title: name,
+            bgColor: ColorConst.FCM_APP_COLOR),
         body: Builder(
           builder: (context) => _createUi(context),
         ));
