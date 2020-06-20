@@ -1,19 +1,18 @@
-# kotlinproject
+# Firebase Flutter Demo
 
 A new Flutter application.
+Firebase : 
+    * Google Login
+    * Facebook Login
+    * Twitter Login
+    * Phone Auth
+    * Cloud Firestore Database(Signup/Login)
+    * Realtime Database
+    * Firebase Storage
+    * Firbase Push Notification
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="screenshot/fcm/fcm_social.png" width="225">    <img src="screenshot/fcm/fcm_google.png" width="225">    <img src="screenshot/fcm/fcm_login.png" width="225">    <img src="screenshot/fcm/fcm_signup.jpeg" width="225">
+<img src="screenshot/fcm/fcm_image_pick.jpeg" width="225">    <img src="screenshot/fcm/fcm_otp.png" width="225">    <img src="screenshot/fcm/fcm_home.png" width="225">    <img src="screenshot/fcm/fcm_phone_auth.png" width="225">
 
 
 
