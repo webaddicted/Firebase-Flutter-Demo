@@ -1,7 +1,7 @@
 # Firebase Flutter Demo
 
 A new Flutter application.
-Firebase : 
+23) Firebase : 
     * Google Login
     * Facebook Login
     * Twitter Login
@@ -13,9 +13,6 @@ Firebase :
 
 <img src="screenshot/fcm/fcm_social.png" width="225">    <img src="screenshot/fcm/fcm_google.png" width="225">    <img src="screenshot/fcm/fcm_login.png" width="225">    <img src="screenshot/fcm/fcm_signup.jpeg" width="225">
 <img src="screenshot/fcm/fcm_image_pick.jpeg" width="225">    <img src="screenshot/fcm/fcm_otp.png" width="225">    <img src="screenshot/fcm/fcm_home.png" width="225">    <img src="screenshot/fcm/fcm_phone_auth.png" width="225">
-
-
-
 
 ## LICENSE
 ```
