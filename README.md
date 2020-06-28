@@ -8,6 +8,13 @@
 ![GitHub forks](https://img.shields.io/github/forks/webaddicted/Firebase-Flutter-Demo?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/webaddicted/Firebase-Flutter-Demo?style=social)
 
+## APK
+
+***You can Install and test latest Firebase Flutter Demo app from below 👇***
+
+[![Firebase Flutter Demo](https://img.shields.io/badge/Firebase%20Flutter%20Demo-Apk-brightgreen.svg?style=for-the-badge&logo=android)](https://github.com/webaddicted/Firebase-Flutter-Demo/tree/master/apk/FlutterFcmDemo.apk)
+
+
 A new Flutter application.
 
 
